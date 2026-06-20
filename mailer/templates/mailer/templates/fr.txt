@@ -1,0 +1,19 @@
+Subject: Grues a tour & monte-charges de chantier — prix usine pour {Country}
+
+Bonjour {ContactName},
+
+Je suis {FromName} de {CompanyName}, un fabricant chinois de grues a tour (a fleche relevable et a tete plate) et de monte-charges/ascenseurs de chantier SC200.
+
+J'ai remarque que {Company} est actif au/en {Country}. Nos equipements de levage en direct usine peuvent ameliorer vos marges sur vos prochains projets.
+
+Notre offre :
+- Grues a tour 6-25t, certifiees CE/ISO, longueur de fleche personnalisable
+- Monte-charges SC200 personnes & materiaux (2 x 2000 kg)
+- Prix FOB/CIF competitifs, pieces detachees, assistance a la mise en service
+
+Puis-je vous envoyer notre catalogue et un devis pour les modeles les plus adaptes au marche {Country} ?
+
+Cordialement,
+{FromName}
+{CompanyName}
+{ShopURL}
