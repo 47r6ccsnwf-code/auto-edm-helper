@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# App specific
+mailer/mailer.db
+mailer/*.log
+leads/*.csv
+!leads/sample_leads.csv
+
+# Config
+# mailer/config.yaml  # Commented out so users can see the structure, but usually ignored in real projects.
+# We keep config.yaml as a template for now since we cleaned it.
