@@ -1,0 +1,14 @@
+smtp:
+  server: smtp.example.com
+  port: 587
+  username: user@example.com
+  password: your_password_here
+  use_tls: true
+
+sender:
+  name: "EDM Helper"
+  email: user@example.com
+
+email:
+  subject: "Default Subject"
+  body_template: "templates/default.html"
