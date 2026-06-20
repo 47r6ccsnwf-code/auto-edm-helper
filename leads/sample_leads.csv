@@ -1,0 +1,3 @@
+Company,Country,City,Website,Email,Phone,ContactName,Title,IntentScore,Tier,ProductMatch,IntentSignal,SourceURL
+Sample Corp,UAE,Dubai,https://example.com,info@example.com,+971 50 000 0000,John Doe,Manager,100,A,Tower Crane,Looking for lifting solutions,https://example.com/contact
+Demo Ltd,Saudi Arabia,Riyadh,https://demo.sa,contact@demo.sa,+966 50 000 0000,Jane Smith,Buyer,90,A,Hoist,Interested in SC200 hoists,https://demo.sa/contact
